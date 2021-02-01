@@ -61,3 +61,35 @@ article
 {
 	background-color: darkorange;
 }
+
+
+/* ==== Base Style ==== */
+
+
+body
+{
+	font-family: 'Merriweather', 'Times New Roman', serif;
+	font-size: 18px;
+	line-height: 32px;
+	color:#333;
+}
+
+h1
+{
+	 font-family:'Open Sans', Arial, sans-serif;
+	 font-size: 28,8px;
+}
+
+h2
+{
+	color: #e5127d;
+	font-family:'Open Sans', Arial, sans-serif;
+	font-size: 25,6px;
+}
+
+.main-header
+{
+	color:#8c8e9b;
+	font-size:18px;
+	letter-spacing: 2px;
+}
